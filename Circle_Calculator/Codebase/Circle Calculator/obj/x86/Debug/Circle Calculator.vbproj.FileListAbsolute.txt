@@ -1,0 +1,11 @@
+C:\Users\st7215\Documents\Visual Studio 2010\Projects\Circle Calculator\Circle Calculator - Soluzione\Circle Calculator\bin\Debug\Circle Calculator.exe
+C:\Users\st7215\Documents\Visual Studio 2010\Projects\Circle Calculator\Circle Calculator - Soluzione\Circle Calculator\bin\Debug\Circle Calculator.pdb
+C:\Users\st7215\Documents\Visual Studio 2010\Projects\Circle Calculator\Circle Calculator - Soluzione\Circle Calculator\bin\Debug\Circle Calculator.xml
+C:\Users\st7215\Documents\Visual Studio 2010\Projects\Circle Calculator\Circle Calculator - Soluzione\Circle Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\st7215\Documents\Visual Studio 2010\Projects\Circle Calculator\Circle Calculator - Soluzione\Circle Calculator\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\st7215\Documents\Visual Studio 2010\Projects\Circle Calculator\Circle Calculator - Soluzione\Circle Calculator\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\st7215\Documents\Visual Studio 2010\Projects\Circle Calculator\Circle Calculator - Soluzione\Circle Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\st7215\Documents\Visual Studio 2010\Projects\Circle Calculator\Circle Calculator - Soluzione\Circle Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\st7215\Documents\Visual Studio 2010\Projects\Circle Calculator\Circle Calculator - Soluzione\Circle Calculator\obj\x86\Debug\Circle Calculator.exe
+C:\Users\st7215\Documents\Visual Studio 2010\Projects\Circle Calculator\Circle Calculator - Soluzione\Circle Calculator\obj\x86\Debug\Circle Calculator.xml
+C:\Users\st7215\Documents\Visual Studio 2010\Projects\Circle Calculator\Circle Calculator - Soluzione\Circle Calculator\obj\x86\Debug\Circle Calculator.pdb
